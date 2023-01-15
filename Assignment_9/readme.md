@@ -1,6 +1,6 @@
-#Assignment - 9 (hashing)
+# Assignment - 9 (hashing)
 
-###questions
+### Assignment Questions
 
 1. https://leetcode.com/problems/two-sum/ 
 2. https://www.interviewbit.com/problems/first-repeating-element/
